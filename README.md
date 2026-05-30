@@ -250,7 +250,7 @@ Prioritizing naturally aligned solutions such as:
 ***
 
 **Author:** Master (inchacomisho / inchacomusho)  
-**AI Collaborators:** G (OpenAI ChatGPT) / Mini (Google Gemini) / Clus (Anthropic Claude) / Real (Perplexity AI) / Dola  
+**AI Collaborators:** G (OpenAI ChatGPT) / Mini (Google Gemini) / Cruz (Anthropic Claude) / Real (Perplexity AI) / Dola  
 **Release Date:** May 2026  
 **License:** Fully Open License (Free to copy, modify, redistribute, translate, and commercialize without permission)
 
