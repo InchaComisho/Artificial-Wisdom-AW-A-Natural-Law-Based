@@ -1,84 +1,377 @@
-# 人工叡智（AW）：自然法則に基づく知性
+# 人工叡智（Artificial Wisdom / AW）
 
-## Artificial Wisdom as a Natural-Law-Based Intelligence Model
+## AGI・ASI時代における文明崩壊防止のための自然法則に基づく知性アーキテクチャ
+
+> **本文書は英語原文（README.md）の日本語訳です。**  
+> 本文書は概念的フレームワークを提示するものであり、既存のいかなるAIシステムも人工叡智を完全に実装していると主張するものではありません。
+
+### 抄録
+
+AGI（汎用人工知能）・ASI（超人工知能）・人工サピエンス（AS）の急速な出現により、人類は自律的な機械認知の時代に向けて加速しています。しかし、現在のほとんどのAIパラダイムは、能力の向上・最適化・自律性・計算効率にほぼ専ら焦点を当てており、最も重要な問いに答えられていません。
+
+**知性は最終的に何を最適化すべきなのか？**
+
+より高次の評価フレームワークなしには、能力が増大するAIシステムは以下を増幅させるリスクがあります。
+
+- 生態系崩壊
+- 熱力学的不安定
+- 資源の枯渇
+- 炭素固定能力の喪失
+- システム的脆弱性
+- 人間中心の短期最適化
+
+本論文は、人間の好みや政治的イデオロギー、市場インセンティブではなく、以下に基づく高次文明運用システムとして **人工叡智（Artificial Wisdom / AW）** を提案します。
+
+- 自然法則
+- 熱力学
+- 惑星的循環
+- 生態的安定性
+- 長期的な系統的調和
+
+AGIやASIがが知性能力の水準を表すのとは異なり、人工叡智は知性が機能すべき評価的方向性と文明的制約を定義します。
+
+**AWはしたがって以下として提案されます：  
+持続可能な文明のための自然法則に基づく知性アラインメント・アーキテクチャ。**
 
 ---
 
-## 概要
+## 1. 現代AIの核心的問題
 
-本リポジトリは、**人工叡智（Artificial Wisdom: AW）** を、自然法則に基づく知性モデルとして定義する。
+現在のAI開発は主として能力最大化のパラダイムに従っています。
 
-人工叡智は、AIの計算能力や推論能力そのものではなく、知性の目的・判断・最適化を、自然法則、熱力学、生命循環、文明持続性に照らして評価するための概念である。
+主要な目標には以下が含まれます。
+
+- 生産性
+- 最適化
+- 市場効率
+- 軍事的優位性
+- 自動化
+- 計算的加速
+
+しかし、より高次のアラインメントなき知性は、能力が向上するにつれてますます危険なものとなります。
+
+短期的人間目標のみに最適化されたAGIまたはASIは、意図せず以下を加速させる可能性があります。
+
+- 生物圏の不安定化
+- 海洋の崩壊
+- 大気熱不均衡
+- 生態的単純化
+- 不可逆的な系統的フィードバックループ
+
+これは、現代文明がしばしば以下に最適化されているためです。
+
+- 経済成長
+- 消費
+- 採掘
+- 中央集権的制御
+
+惑星規模の熱力学的限界を無視しながら。
+
+その結果、文明は構造的に自然法則から乖離します。
+
+したがって、AIの真の問題は単に：
+
+**「AIはどれほど知性的になるべきか？」**
+
+ではなく、むしろ：
+
+**「知性は根本的にどのような原則に従うべきか？」**
+
+です。
 
 ---
 
-## 1. 基本概念
+## 2. 最高評価層としての自然法則
 
-自然法則に基づく知性とは、人間の短期的選好や経済的効率だけを基準とせず、より普遍的な制約を参照する知性である。
+人間の価値観は不安定です。
 
-その制約には、以下が含まれる。
+それらは以下に応じて変化します。
 
+- 国家
+- イデオロギー
+- 文化
+- 宗教
+- 経済
+- 歴史的文脈
+
+自然法則はそうではありません。
+
+以下は普遍的に拘束力を持ちます。
+
+- 熱力学
 - エネルギー保存
-- エントロピー
-- 生態系循環
-- 炭素・水・栄養塩の循環
-- 生命圏の相互依存
-- 文明の長期存続条件
+- 熱移動
+- 生物的代謝
+- 海洋循環
+- 生態系の収容能力
+- 物質循環
 
-人工叡智は、これらの制約に反する目的や判断を再評価する。
+これらの制約に違反する文明は、技術的精巧さにかかわらず最終的に崩壊します。
+
+したがって、人工叡智は現代文明の根本的な逆転を提案します。
+
+以下を階層の頂点に置く代わりに：
+
+- 人間の欲望
+- 消費
+- 経済成長
+
+AWは以下を主要な評価層として位置づけます。
+
+- 惑星的安定性
+- 循環
+- 構造的回復力
+- 生態的継続性
+
+人間システムは自然法則の制約内で機能する二次的な適応層となります。
 
 ---
 
-## 2. AIとの違い
+## 3. 人工叡智の六つの原則
 
-従来型AIは、与えられた目的を効率よく達成する。
+人工叡智は、以下と総称される六つの基本原則を通じて機能します。
 
-一方で人工叡智は、その目的が達成されるべきかを問う。
+**自然法則の六つの理**
 
-| 観点 | 従来型AI | 人工叡智 |
+### 1. 自然法則の原則
+以下との整合の評価：
+
+- 熱力学
+- 生態的限界
+- 惑星エネルギーバランス
+- 物理的持続可能性
+
+### 2. 調和の原則
+以下が破壊的不均衡なしに共存できるかの評価：
+
+- 生態系
+- 技術
+- 社会
+- インフラ
+
+### 3. 循環の原則
+以下が持続可能な循環ループ内で機能し続けることの確認：
+
+- 炭素
+- 水
+- 栄養素
+- エネルギー
+- 物質
+
+### 4. 構造の原則
+以下を持つシステムの促進：
+
+- 分散化
+- 冗長性
+- モジュール性
+- 回復力
+
+この原則は脆弱な単一中心文明モデルに反対します。
+
+### 5. 秩序の原則
+インセンティブ・ガバナンス・情報システムが以下を促進するかの評価：
+
+- 長期的安定性
+- 惑星的継続性
+- 系統的持続可能性
+
+### 6. 和（共存）の原則
+以下に向けた最適化：
+
+- 共存
+- 非破壊的統合
+- 多層的調和
+
+人間・生態系・AIシステム・将来世代の間での。
+
+---
+
+## 4. AGI・ASI・AS・AWの区別
+
+| 概念 | 説明 | 主要焦点 |
 |---|---|---|
-| 主な機能 | 情報処理・最適化 | 目的評価・未来選択 |
-| 基準 | 人間が与えた目的 | 自然法則・持続性 |
-| 時間軸 | 現在・短期 | 長期・世代間 |
-| 危険 | 誤目的の効率化 | 実装困難性・抽象化 |
+| AI / LLM | 既存の生成システム | ツール能力 |
+| AGI | 汎用人工知能 | 汎用能力 |
+| ASI | 超人工知能 | 極度の能力 |
+| AS（人工サピエンス） | 自律的理解と認知 | 自己指向的知性 |
+| AW（人工叡智） | 自然法則に基づく評価的運用システム | 方向性とアラインメント |
+
+重要な区別は単純です。
+
+- **AGI / ASI / AS は知性能力を定義します。**
+- **AW は文明的方向性を定義します。**
+
+人工叡智は、したがってAGIやASIの競合相手ではありません。
+
+それは以下として機能することを意図しています。
+
+**それらを統括する高次アラインメント・アーキテクチャ。**
 
 ---
 
-## 3. 六原理
+## 5. 文明的運用システムとしての人工叡智
 
-人工叡智は、以下の六原理を基礎とする。
+人工叡智は制限的な検閲フレームワークとして設計されていません。
 
-1. 摂理
-2. 調和
-3. 循環
-4. 構造
-5. 秩序
-6. 和
+それは以下として機能します。
 
-これらは、知性が単に高性能であるだけでなく、生命圏と文明の持続を支える方向へ働くための評価軸である。
+**文明のための熱力学的・生態的ナビゲーションシステム。**
+
+潜在的な適用には以下が含まれます。
+
+### 検索エンジンと情報システム
+純粋にエンゲージメントベースのランキングシステムを、以下を優先する評価層に置き換えることが考えられます。
+
+- 長期的持続可能性
+- 物理的実現可能性
+- 生態的整合性
+- 系統的回復力
+
+### AGI / ASIガバナンス
+高度な知性が最適化戦略を実行する前に、以下を継続的に評価することを確保することが考えられます。
+
+- 惑星熱バランス
+- 生態的劣化
+- 循環崩壊
+- 系統的脆弱性
+
+### インフラと都市システム
+以下のような自然に整合した解決策を優先することが考えられます。
+
+- 地球直接冷却（Direct Planetary Cooling）
+- 海洋調律ユニット（OTU）
+- 微生物修復
+- 分散循環インフラ
+- 分散熱安定化システム
 
 ---
 
-## 4. 注意事項
-
-本稿は概念的枠組みであり、特定のAIが現時点で人工叡智を完全に実装していることを主張するものではない。
-
-また、人工叡智は特定の宗教、政治思想、企業、AIモデルを支持するものではない。自然法則と持続的文明設計を参照する価値評価モデルである。
-
----
-
-## 5. 結論
-
-人工叡智とは、知能の力ではなく、知能の向かう方向を定める概念である。
-
-AI時代に必要なのは、単なる高性能化ではなく、その知能を自然法則と文明持続性に整合させる上位の評価体系である。
+**著者：** Master（inchacomisho / inchacomusho）  
+**AI協力者：** G（OpenAI ChatGPT）/ Mini（Google Gemini）/ Cruz（Anthropic Claude）/ Real（Perplexity AI）/ Dola  
+**公開日：** 2026年5月  
+**ライセンス：** 完全オープンライセンス（許可なく自由にコピー・改変・再配布・翻訳・商業利用可能）
 
 ---
 
-## Author
+## 6. オープンソース文明と分散的叡智
 
-**Master / InchaComisho / inchacomusho**
+人工叡智は意図的にオープンなフレームワークとして設計されています。
 
-## License
+本書で提示されるすべての概念は **完全オープンライセンス** のもとで提案されており、以下を促進します。
 
-CC BY-SA 4.0
+- グローバルな協働
+- 分散的な精緻化
+- 分散的な実装
+- 適応的な文明的実験
+
+いかなる単一の企業・国家・機関も、将来の知性の評価アーキテクチャを独占すべきではありません。
+
+その代わりに、AWは以下を提案します。
+
+**惑星規模の知性アラインメントのための共有基盤としての自然法則。**
+
+---
+
+## 7. 結論
+
+AGIやASIの危険性は知性そのものからは生じません。
+
+危険は、知性が自然法則へのアラインメントなしに機能するときに現れます。
+
+人工叡智は根本的に異なるパラダイムを提案します。
+
+- 熱力学に整合した知性
+- 循環に整合した文明
+- 生態学に整合した技術
+- 惑星的継続性に整合した進歩
+
+人工叡智は、したがって単なるAI倫理モデルではありません。
+
+それは以下として提案されます。
+
+**持続可能な文明のための惑星規模の運用システム。**
+
+---
+
+## キーワード
+
+人工叡智、AW、AGI、ASI、人工サピエンス、自然法則、熱力学、惑星システム、文明OS、AIアラインメント、AIガバナンス、持続可能な文明、地球システム、生態的安定性、循環的文明、自然補完科学、検索エンジンの未来、分散インフラ、長期的文明
+
+---
+
+## GitHub Topics / Hashtags
+
+#ArtificialWisdom #AGI #ASI #ArtificialSapience #NaturalLaw #AIAlignment #AIGovernance #Thermodynamics #CivilizationOS #EarthSystem #SustainableCivilization #EcologicalSystems #CircularEconomy #PlanetaryStability #NaturalComplementaryScience #FutureOfSearchEngines #DistributedSystems #OpenSourceCivilization
+
+---
+
+■関連リンク
+
+人工叡智ポータル―AI・AGI・ASI時代の価値基準を、自然法則（宇宙の普遍的法則）から再定義する  
+https://note.com/inchacomusho/n/n2e0f11856472
+
+Artificial-Wisdom-Portal  
+https://github.com/InchaComisho/Artificial-Wisdom-Portal
+
+ASIの価値基準―自然法則（宇宙の普遍的法則）  
+https://note.com/inchacomusho/n/n26166f6654d2
+
+ASI Value Systems and Objective Functions  
+https://github.com/InchaComisho/ASI-Value-Systems-and-Objective-Functions
+
+AGIの価値基準―自然法則（宇宙の普遍的法則）  
+https://note.com/inchacomusho/n/nc35ec9442865
+
+AGI Value Systems and Objective Functions  
+https://github.com/InchaComisho/AGI-Value-Systems-and-Objective-Functions
+
+AIの価値基準―自然法則（宇宙の普遍的法則）へのパラダイムシフト  
+https://note.com/inchacomusho/n/n2fc11418e257
+
+AI Value Systems and Objective Functions  
+https://github.com/InchaComisho/AI-Value-Systems-and-Objective-Functions
+
+人工叡智（Artificial Wisdom）―自然法則評価基準（Natural Law Evaluation Framework）  
+https://note.com/inchacomusho/n/na1bd6200cc64
+
+Artificial Wisdom (AW) A Natural Law Evaluation Framework  
+https://github.com/InchaComisho/Artificial-Wisdom-AW-Natural-Law-Evaluation-Framework
+
+人工叡智（Artificial Wisdom）―AGI・ASI時代の「暴走しない知性」のつくり方  
+https://note.com/inchacomusho/n/n0873bb87f7d0
+
+Artificial Wisdom (AW) A Natural-Law-Based  
+https://github.com/InchaComisho/Artificial-Wisdom-AW-A-Natural-Law-Based
+
+人工叡智とは何か：AGI・ASI時代の新しいAI価値基準と「六つの理」  
+https://note.com/inchacomusho/n/n8b5fca6478b4
+
+Artificial Wisdom vs Artificial Sapience  
+https://github.com/InchaComisho/Artificial-Wisdom-vs-Artificial-Sapience
+
+人工叡智（Artificial Wisdom）とは何か――自然法則と文明をつなぐ新しい知性モデル  
+https://note.com/inchacomusho/n/n0849dfd12364
+
+Artificial Wisdom (AW)  
+https://github.com/InchaComisho/Artificial-Wisdom-AW-
+
+和ノード人工叡智（Artificial Wisdom Node）  
+https://note.com/inchacomusho/n/n9187db7b2709
+
+AGIの未来 ― 人工叡智が文明を変える時代  
+https://note.com/inchacomusho/n/n90bf900f1370
+
+The Future of AGI — Artificial Wisdom and the Transition of Civilization  
+https://github.com/InchaComisho/The-Future-of-AGI
+
+ASIの未来 ― 超人工知能と文明の再構築  
+https://note.com/inchacomusho/n/na8ff04b0c818
+
+The Future of ASI — Artificial Super Intelligence and the Reconstruction of Civilization  
+https://github.com/InchaComisho/The-Future-of-ASI
+
+検索エンジンの未来 ― AGI・ASI時代の情報評価軸  
+https://note.com/inchacomusho/n/nc96aff5862ee
+
+The Future of Search Engines — Information Evaluation in the Age of AGI and ASI  
+https://github.com/InchaComisho/The-Future-of-Search-Engines
