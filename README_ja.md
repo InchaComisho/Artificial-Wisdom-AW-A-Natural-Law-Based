@@ -293,6 +293,24 @@ AGIやASIの危険性は知性そのものからは生じません。
 
 ---
 
+---
+
+## 関連リンク
+
+人工叡智（Artificial Wisdom: AW）とは何か  
+https://note.com/inchacomusho/n/n18c90bd4d328
+
+Artificial Wisdom (AW): An Integrated Framework for Natural Law-Based Intelligence  
+https://github.com/InchaComisho/Artificial-Wisdom-AW-An-Integrated-Framework-for-Natural-Law-Based-Intelligence
+
+超知能AIをつくれば人類は滅亡するのか  
+https://note.com/inchacomusho/n/na91a53cc493b
+
+Will Superintelligent AI Cause Human Extinction?  
+https://github.com/InchaComisho/Will-Superintelligent-AI-Cause-Human-Extinction-
+
+---
+
 ## キーワード
 
 人工叡智、AW、AGI、ASI、人工サピエンス、自然法則、熱力学、惑星システム、文明OS、AIアラインメント、AIガバナンス、持続可能な文明、地球システム、生態的安定性、循環的文明、自然補完科学、検索エンジンの未来、分散インフラ、長期的文明
