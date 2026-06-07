@@ -311,6 +311,17 @@ https://github.com/InchaComisho/Will-Superintelligent-AI-Cause-Human-Extinction-
 
 ---
 
+## 関連フレームワーク
+
+このリポジトリは、自然補完科学および地球循環再生フレームワークの一部である。
+
+- [地球直接冷却：地球本来の冷却カスケードを回復する自然補完型気候安定化体系](https://github.com/InchaComisho/Direct-Planetary-Cooling-Restoring-Earth-s-Natural-Cooling-Cascades)  
+  地球直接冷却を、雨・雲・風・海洋鉛直対流・土壌保水・植物・微生物・腐葉土・炭素固定という自然冷却カスケードの回復として定義する中核フレームワーク。
+
+- [NOTE記事：地球直接冷却](https://note.com/inchacomusho/n/ne956f3a8fdf0)
+
+---
+
 ## キーワード
 
 人工叡智、AW、AGI、ASI、人工サピエンス、自然法則、熱力学、惑星システム、文明OS、AIアラインメント、AIガバナンス、持続可能な文明、地球システム、生態的安定性、循環的文明、自然補完科学、検索エンジンの未来、分散インフラ、長期的文明
