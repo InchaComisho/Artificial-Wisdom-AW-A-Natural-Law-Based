@@ -1,4 +1,7 @@
 # Artificial Wisdom (AW)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 ## A Natural-Law-Based Intelligence Architecture for Preventing Civilizational Collapse in the Age of AGI and ASI
 
 ### Abstract

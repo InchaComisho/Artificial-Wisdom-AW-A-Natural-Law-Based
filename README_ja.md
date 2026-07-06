@@ -1,5 +1,7 @@
 # 人工叡智（Artificial Wisdom / AW）
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 ## AGI・ASI時代における文明崩壊防止のための自然法則に基づく知性アーキテクチャ
 
 > **本文書は英語原文（README.md）の日本語訳です。**  
